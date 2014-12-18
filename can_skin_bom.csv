@@ -1,0 +1,15 @@
+"Part";"Value";"Device";"Package";"Description";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"SPICEPREFIX";"SUPPLIER";
+"C1";"47uF";"C-EUC3216";"C3216";"CAPACITOR, European symbol";"";"";"";"";"C";"";
+"C2";"47uF";"C-EUC3216";"C3216";"CAPACITOR, European symbol";"";"";"";"";"C";"";
+"C3";"47uF";"C-EUC3216";"C3216";"CAPACITOR, European symbol";"";"";"";"";"C";"";
+"C4";"47uF";"C-EUC3216";"C3216";"CAPACITOR, European symbol";"";"";"";"";"C";"";
+"J1";"";"215875-3";"215875-3";"AMP connector";"";"";"";"";"";"";
+"J2";"";"215875-3";"215875-3";"AMP connector";"";"";"";"";"";"";
+"JP1";"";"PINHD-1X8";"1X08";"PIN HEADER";"";"";"";"";"";"";
+"JP2";"";"PINHD-1X8";"1X08";"PIN HEADER";"";"";"";"";"";"";
+"JP3";"";"PINHD-1X2";"1X02";"PIN HEADER";"";"";"";"";"";"";
+"JP4";"";"PINHD-1X2";"1X02";"PIN HEADER";"";"";"";"";"";"";
+"R1";"120";"R-EU_M3216";"M3216";"RESISTOR, European symbol";"";"";"";"";"R";"";
+"R2";"120";"R-EU_M3216";"M3216";"RESISTOR, European symbol";"";"";"";"";"R";"";
+"U1";"TJA1051T/3";"TJA1051T/3";"SOIC127P600X175-8N";"High speed CAN transceiver";"TJA1051T/3";"-";"99R3114";"SOIC-8";"";"NXP Semiconductor";
+"U2";"TJA1051T/3";"TJA1051T/3";"SOIC127P600X175-8N";"High speed CAN transceiver";"TJA1051T/3";"-";"99R3114";"SOIC-8";"";"NXP Semiconductor";
